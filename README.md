@@ -39,12 +39,6 @@ I'm Pulkit, a 20 years old web developer from India.
   <img src="https://streak-stats.demolab.com?user=Pulkit1822&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
 </div>
 
-<!--START_SECTION:waka-->
-x## 📈 GitHub Stats 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pulkit1822)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit1822&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--END_SECTION:waka-->
 
 ###
 
