@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://iili.io/HG9Lsi7.gif" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gabarito&size=28&pause=1000&color=00B119&center=true&vCenter=true&random=true&width=435&lines=Specialist+on+CodeForces;4+starred+on+CodeChef;Knight+on+Leetcode;MERN+Developer;NoCodeAI+geek" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gabarito&size=28&duration=4000&pause=1000&color=00B119&center=true&vCenter=true&random=true&width=435&lines=Specialist+on+CodeForces;4+starred+on+CodeChef;Knight+on+Leetcode;MERN+Developer;NoCodeAI+geek" alt="Typing SVG" /></a>
 </p>
 
 
