@@ -36,7 +36,6 @@ I'm Pulkit, a 20 years old web developer from India.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pulkit1822&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Pulkit1822&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pulkit1822&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=false" height="130" alt="languages graph"  />
 </div>
 
 ###
