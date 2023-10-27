@@ -41,10 +41,9 @@ I'm Pulkit, a 20 years old web developer from India.
 
 <!--START_SECTION:waka-->
 x## 📈 GitHub Stats 
-
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pulkit1822)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit1822&layout=compact)](https://github.com/Pulkit1822/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit1822&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
 
 ###
