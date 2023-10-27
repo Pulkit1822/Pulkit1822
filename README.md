@@ -5,26 +5,32 @@
 
 	
 ## Hey! 👋
-I'm Marton, a 20 years old web developer from Hungary.
+I'm Pulkit, a 20 years old web developer from India.
 
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
+- 👨‍💻 Passionate frontend developer from India
 
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
+- ⚛️ Skilled in React, HTML/CSS, JavaScript, C++, Java
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+- 🔧 Experienced with Node.js, Django, MongoDB, SQL
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+- 🏆 Top performer in competitive programming on LeetCode, Codeforces, CodeChef
+
+- 🏀 Member of winning basketball team in college tournament
+
+- 💡 Always ready to collaborate and help others learn
 
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 C++, Java, JavaScript
+- ⚙️ React, HTML, Bootstrap, jQuery
+- 👁️ SASS, CSS, TailwindCSS
+- 🗄️ Django, Node.js, SQL, MongoDB
+- 🔧 Git, Blender
 + a lot more :D
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- [Portfolio](https://pulkitmathur.me)
+- [@pulkitkumarmathur](https://www.instagram.com/pulkitkumarmathur/) on Instagram
+- [@ZORO](discord.com/users/mitashizz) on Discord
+- [LinkedIn](https://www.linkedin.com/in/pulkitkmathur/)
