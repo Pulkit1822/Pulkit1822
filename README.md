@@ -29,13 +29,6 @@ I'm Pulkit, a 20 years old web developer from India.
 - 🔧 Git, Blender
 + a lot more :D
 
-  **🐱 My GitHub Data** 
-
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
-
 
 ###
 
@@ -45,6 +38,14 @@ I'm Pulkit, a 20 years old web developer from India.
   <img src="https://github-readme-stats.vercel.app/api?username=Pulkit1822&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Pulkit1822&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
 </div>
+
+  ***🐱 My GitHub Data** 
+
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+
 
 
 ###
