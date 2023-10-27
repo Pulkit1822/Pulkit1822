@@ -7,11 +7,7 @@
 ## Hey! 👋
 I'm Pulkit, a 20 years old web developer from India.
 
-- 👨‍💻 Passionate frontend developer from India
-
-- ⚛️ Skilled in React, HTML/CSS, JavaScript, C++, Java
-
-- 🔧 Experienced with Node.js, Django, MongoDB, SQL
+- 👨‍💻 Passionate mern developer from India
 
 - 🏆 Top performer in competitive programming on LeetCode, Codeforces, CodeChef
 
