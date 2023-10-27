@@ -29,7 +29,6 @@ I'm Pulkit, a 20 years old web developer from India.
 - 🔧 Git, Blender
 + a lot more :D
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ###
 
@@ -46,3 +45,5 @@ I'm Pulkit, a 20 years old web developer from India.
 - [Portfolio](https://pulkitmathur.me)
 - [@pulkitkumarmathur](https://www.instagram.com/pulkitkumarmathur/) on Instagram
 - [LinkedIn](https://www.linkedin.com/in/pulkitkmathur/)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
