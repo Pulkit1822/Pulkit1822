@@ -29,6 +29,13 @@ I'm Pulkit, a 20 years old web developer from India.
 - 🔧 Git, Blender
 + a lot more :D
 
+  **🐱 My GitHub Data** 
+
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+
 
 ###
 
