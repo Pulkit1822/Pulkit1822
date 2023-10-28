@@ -40,7 +40,7 @@ I'm Pulkit, a 20 years old web developer from India.
  > 
 > 📜 16 Public Repositories 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 2 Private Repositories 
 
 
 
