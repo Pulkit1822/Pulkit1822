@@ -55,8 +55,8 @@ I'm Pulkit, a 20 years old web developer from India.
 
 <p align="center">
 
-  Visitor count<br>
+  Visitor count<br><br>
 
-  <img src="https://profile-counter.glitch.me/Pulkit1822/count.svg" />
+  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" />
 
 </p>
