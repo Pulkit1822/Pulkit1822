@@ -38,7 +38,7 @@ I'm Pulkit, a 20 years old web developer from India.
   **🐱 My GitHub Data** 
 
  > 
-> 📜 16 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
 
