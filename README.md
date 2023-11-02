@@ -2,6 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gabarito&size=28&duration=4000&pause=1000&color=00B119&center=true&vCenter=true&random=true&width=435&lines=Specialist+on+CodeForces;4+starred+on+CodeChef;Knight+on+Leetcode;MERN+Developer;NoCodeAI+geek" alt="Typing SVG" /></a>
 </p>
 
+
 	
 ## Hey! 👋
 I'm Pulkit, a 20 years old web developer from India.
@@ -32,6 +33,7 @@ I'm Pulkit, a 20 years old web developer from India.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pulkit1822&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Pulkit1822&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
+</div>
 
   **🐱 My GitHub Data** 
 
@@ -40,8 +42,9 @@ I'm Pulkit, a 20 years old web developer from India.
  > 
 > 🔑 2 Private Repositories 
 
-###
 
+
+###
 
 ## Contact
 - [Portfolio](https://pulkitmathur.me)
