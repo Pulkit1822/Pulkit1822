@@ -55,7 +55,7 @@ I'm Pulkit, a 20 years old web developer from India.
 
 <p align="center">
 
-  Visitor count<br><br>
+  Visitor count<br>
 
   <img src="https://profile-counter.glitch.me/Pulkit1822/count.svg" />
 
