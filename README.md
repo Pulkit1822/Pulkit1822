@@ -21,7 +21,7 @@ I'm Pulkit, a 20 years old web developer from India.
 - 👨‍💻 C++, Java, JavaScript
 - ⚙️ React, HTML, Bootstrap, jQuery
 - 👁️ SASS, CSS, TailwindCSS
-- 🗄️ Django, Node.js, SQL, MongoDB
+- 🗄️ Django, Node.js, MySQL, MongoDB
 - 🔧 Git, Blender
 + a lot more :D
 
@@ -38,9 +38,9 @@ I'm Pulkit, a 20 years old web developer from India.
   **🐱 My GitHub Data** 
 
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 1 Private Repositories 
 
 
 
