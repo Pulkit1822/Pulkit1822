@@ -35,7 +35,7 @@ I'm Pulkit, a 20 years old web developer from India.
   <img src="https://streak-stats.demolab.com?user=Pulkit1822&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
 </div>
 
-  **🐱 My GitHub Data** 
+  **🐱 My GitHub Data**
 
  > 
 > 📜 20 Public Repositories 
