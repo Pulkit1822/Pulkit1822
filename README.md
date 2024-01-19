@@ -5,9 +5,11 @@
 ## Hey! 👋
 I'm Pulkit, a 20 years old web developer from India.
 
-- 👨‍💻 Passionate mern developer from India
+- 🧑🏻‍💻 Passionate mern developer from India
 
 - 🏆 Top performer in competitive programming on LeetCode, Codeforces, CodeChef
+
+- 🧑🏻‍💻 AWS Certified Cloud Practitioner
 
 - 🏀 Member of winning basketball team in college tournament
 
