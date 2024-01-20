@@ -8,14 +8,10 @@ I'm Pulkit, a 20 years old web developer from India.
 - 🧑🏻‍💻 Passionate mern developer from India
 
 - 🏆 Top performer in competitive programming on LeetCode, Codeforces, CodeChef
-
 - 🧑🏻‍💻 AWS Certified Cloud Practitioner
-
 - 🏀 Member of winning basketball team in college tournament
-
 - 💡 Always ready to collaborate and help others learn
-
-+ a lot more ;)
+  + a lot more ;)
 
 ## Skills
 - 👨‍💻 C++, Java, JavaScript
@@ -23,7 +19,7 @@ I'm Pulkit, a 20 years old web developer from India.
 - 👁️ SASS, CSS, TailwindCSS
 - 🗄️ Django, Node.js, MySQL, MongoDB
 - 🔧 Git, Blender
-+ a lot more :D
+  + a lot more :D
 
 
 ###
