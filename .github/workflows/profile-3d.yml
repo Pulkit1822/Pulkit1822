@@ -1,24 +1,29 @@
-name: GitHub-Profile-3D-Contrib
+name: Generate Contribution Graph
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 15 * * *"
+  schedule:
+    - cron: '0 0 * * *' # daily at midnight  
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.AccessKey }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Setup Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - name: Install dependencies
+      run: npm install
+    - name: Generate contribution graph
+      env:
+        GITHUB_USERNAME: ${{ Pulkit1822 }}
+      run: |
+        node index.js
+        git config --global user.name "Pulkit1822"
+        git config --global user.email "Pulkit1822@gmail.com"
+        git add -A
+        git commit -m "Updated contribution graph"
+        git push
