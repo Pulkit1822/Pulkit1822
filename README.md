@@ -2,18 +2,18 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gabarito&size=28&duration=2500&pause=800&color=00B119&center=true&vCenter=true&random=true&width=435&lines=Specialist+on+CodeForces;4+starred+on+CodeChef;Knight+on+Leetcode;MERN+Developer;NoCodeAI+geek;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" /></a>
 </p>
 	
-## Hey! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
+## Hey! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">
 I'm Pulkit, a 20 years old web developer from India.
 
 - 🧑🏻‍💻 Passionate mern developer from India
 
 - 🏆 Top performer in competitive programming on LeetCode, Codeforces, CodeChef
 - 🧑🏻‍💻 AWS Certified Cloud Practitioner
-- 🏀 Member of winning basketball team in college tournament
+- 🏀 Won Inter Branch Basketball Tournament 2022 at VIT Bhopal.
 - 💡 Always ready to collaborate and help others learn
   + a lot more ;)
 
-## Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20px">
+## Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" align="center">
 - 👨‍💻 C++, Java, JavaScript
 - ⚙️ React, HTML, Bootstrap, jQuery
 - 👁️ SASS, CSS, TailwindCSS
@@ -22,7 +22,7 @@ I'm Pulkit, a 20 years old web developer from India.
   + a lot more :D
 
 
-## GitHub Stats:
+## GitHub Stats <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(3).gif" width="30px" align="center">
 
  > 
 > 📜 20 Public Repositories 
@@ -39,7 +39,7 @@ I'm Pulkit, a 20 years old web developer from India.
 </p>
 
 
-## Contribution History:
+## Contribution History <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(2).gif" width="30px" align="center">
 <br/>
 <p align="center" style="width:100%;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pulkit1822&theme=dark">
@@ -47,7 +47,7 @@ I'm Pulkit, a 20 years old web developer from India.
 
 ###
 
-## Contact
+## Contact <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(1).gif" width="30px" align="center">
 <br/>
 <p align="center">
   <a href="https://pulkitmathur.me/"><img src="https://media.licdn.com/dms/image/D4D03AQHWtA5nb5urXQ/profile-displayphoto-shrink_400_400/0/1698489701087?e=1712188800&v=beta&t=AuhifMq_1CChIXsMal3ac7OYnyMgRdBIFf6U4COIY2w" alt="portfolio" width="32"></a>&nbsp;&nbsp;&nbsp;
