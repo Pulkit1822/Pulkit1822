@@ -29,9 +29,6 @@ I'm Pulkit, a 20 years old web developer from India.
  <!--  ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pulkit1822&limit=5&theme=matrix&combine_all_yearly_contributions=true)-->
 
-
-
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pulkit1822&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 <br/>
 
