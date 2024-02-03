@@ -21,18 +21,6 @@ I'm Pulkit, a 20 years old web developer from India.
 - 🔧 Git, Blender
   + a lot more :D
 
-## Contribution Graph:
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
- <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit1822&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- <!--  ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pulkit1822&limit=5&theme=matrix&combine_all_yearly_contributions=true)-->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pulkit1822&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
-<br/>
-
-###
 
 ## GitHub Stats:
 
