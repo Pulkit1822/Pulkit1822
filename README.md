@@ -33,10 +33,10 @@ I'm Pulkit, a 20 years old web developer from India.
 <br/>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pulkit1822&theme=vision_friendly_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pulkit1822&theme=github_dark&utcOffset=8" style="margin-left: 100px;">
-  <img src="https://streak-stats.demolab.com?user=Pulkit1822&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit1822&layout=compact&hide=html,scss,shell&hide_border=true&theme=github_dark&utcOffset=8" alt="Pulkit1822" height="130" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pulkit1822&theme=vision_friendly_dark"  height="200">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pulkit1822&theme=github_dark&utcOffset=8"  height="200" style="margin-left: 100px;">
+  <img src="https://streak-stats.demolab.com?user=Pulkit1822&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit1822&layout=compact&hide=html,scss,shell&hide_border=true&theme=github_dark&utcOffset=8" alt="Pulkit1822" height="200" />
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pulkit1822" alt="activity-graph" width="100%">
 </p>
 
@@ -44,7 +44,7 @@ I'm Pulkit, a 20 years old web developer from India.
 ## Contribution History <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(2).gif" width="30px" align="center">
 <br/>
 <p align="center" style="width:100%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pulkit1822&theme=dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pulkit1822&theme=dark" width = 90%>
 </p>
 
 ###
