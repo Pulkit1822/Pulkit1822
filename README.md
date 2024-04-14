@@ -27,9 +27,9 @@ I'm Pulkit, a 20 years old web developer from India.
 ## GitHub Stats <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(3).gif" width="30px" align="center">
 
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 5 Private Repositories 
 
 
 <br/>
