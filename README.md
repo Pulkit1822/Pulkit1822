@@ -8,7 +8,7 @@ I'm Pulkit, a 20 years old web developer from India.
 - 🧑🏻‍💻 Passionate mern developer from India
 
 - 🏆 Top performer in competitive programming on LeetCode, Codeforces, CodeChef
-- 🧑🏻‍💻 AWS Certified Cloud Practitioner
+- 🧑🏻‍💻 AWS Certified Cloud Practitioner and passed NPTEL's Cloud Exam (Eite + Silver medal).
 - 🏀 Won Inter Branch Basketball Tournament 2022 at VIT Bhopal.
 - 💡 Always ready to collaborate and help others learn
   + a lot more ;)
