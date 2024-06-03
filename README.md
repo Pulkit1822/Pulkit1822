@@ -29,7 +29,7 @@ I'm Pulkit, a 20 years old web developer from India.
  > 
 > 📜 24 Public Repositories 
  > 
-> 🔑 8 Private Repositories
+> 🔑 9 Private Repositories
  >
 > 🧑🏻‍💻 3 Forks(Contributed) Repositories
 
