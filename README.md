@@ -1,9 +1,10 @@
+## Hey everyone! <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="30"/> 
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gabarito&size=28&duration=2500&pause=800&color=00B119&center=true&vCenter=true&random=true&width=435&lines=Specialist+on+CodeForces;4+starred+on+CodeChef;Knight+on+Leetcode;MERN+Developer;NoCodeAI+geek;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" /></a>
 </p>
 	
-## Hey! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">
-I'm Pulkit, a 20 years old web developer from India.
+
 
 - 🧑🏻‍💻 Passionate mern developer from India
 
