@@ -28,11 +28,11 @@
 ## GitHub Stats <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(3).gif" width="30px" align="center">
 
  > 
-> 📜 37 Public Repositories 
+> 📜 40 Public Repositories 
  > 
 > 🔑 9 Private Repositories
  >
-> 🧑🏻‍💻 4 Forks(Contributed) Repositories
+> 🧑🏻‍💻 8 Forks(Contributed) Repositories
 
 
 <br/>
