@@ -53,6 +53,15 @@
 
 ###
 
+## Coding Profiles <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(2).gif" width="30px" align="center">
+<br/>
+<p align="center">
+  <a href="https://codeforces.com/profile/pulkitkumarmathur1"><img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/cf.png" alt="CodeForces" width="43"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/pulkitmathur18"><img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/cc.png" alt="CodeChef" width="43"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/pulkitkumarmathur1/"><img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/lc.png" alt="LeetCode" width="43"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/pulkitkmathur/practice/"><img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/gfg.png" alt="GeeksforGeeks" width="43"></a>&nbsp;&nbsp;&nbsp;
+</p>
+
 ## Contact <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(1).gif" width="30px" align="center">
 <br/>
 <p align="center">
