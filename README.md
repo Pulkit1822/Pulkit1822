@@ -6,23 +6,13 @@
 	
 
 
-- 🧑🏻‍💻 Passionate mern developer from India
+- 🧑🏻‍💻 Passionate developer from India
 
 - 🏆 Top performer in competitive programming on LeetCode, Codeforces, CodeChef
 - 🧑🏻‍💻 AWS Certified Cloud Practitioner and passed NPTEL's Cloud Exam (Eite + Silver medal).
-- 🏀 Won Inter Branch Basketball Tournament 2022 at VIT Bhopal.
 - 💡 Always ready to collaborate and help others learn
   + a lot more ;)
 
-## Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" align="center">
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java,spring,python,html,css,js,express,react,nodejs,typescript,next" />
-  </a>
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,threejs,tailwind,sass,django,jquery,md,git,github,blender" />
-  </a>
-</p>
 
 
 ## GitHub Stats <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(3).gif" width="30px" align="center">
