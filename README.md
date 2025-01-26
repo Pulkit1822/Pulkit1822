@@ -34,13 +34,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit1822&layout=compact&hide=html,scss,shell&hide_border=true&theme=github_dark&utcOffset=8" alt="Pulkit1822" height="200" />
 </p>
 
-
-## Contribution History <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(2).gif" width="30px" align="center">
-<br/>
-<p align="center" style="width:100%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pulkit1822&theme=dark" width = 90%>
-</p>
-
 ###
 
 ## Coding Profiles <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(2).gif" width="30px" align="center">
