@@ -47,7 +47,7 @@
 ## Contact <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(1).gif" width="30px" align="center">
 <br/>
 <p align="center">
-  <a href="https://pulkitmathur.tech/"><img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/pic.jpeg" alt="portfolio" width="43"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://pulkitmathur.tech/"><img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/pic.png" alt="portfolio" width="43"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pulkitkmathur/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:pulkitmathur.me@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" width="43"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/pulkitkumarmathur/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Instagram Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
