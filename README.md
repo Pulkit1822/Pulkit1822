@@ -18,9 +18,9 @@
 ## GitHub Stats <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(3).gif" width="30px" align="center">
 
  > 
-> 📜 47 Public Repositories 
+> 📜 48 Public Repositories 
  > 
-> 🔑 18 Private Repositories
+> 🔑 28 Private Repositories
  >
 
 
